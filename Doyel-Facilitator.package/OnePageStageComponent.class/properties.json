@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "Casco 8/21/2018 20:27",
+	"super" : "WAComponent",
+	"category" : "Doyel-Facilitator-Seaside-tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"onePage",
+		"text"
+	],
+	"name" : "OnePageStageComponent",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Casco 8/21/2018 20:27",
+	"super" : "OnePageParticipantComponent",
+	"category" : "Doyel-Facilitator-Seaside-tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OnePageFacilitatorComponent",
+	"type" : "normal"
+}

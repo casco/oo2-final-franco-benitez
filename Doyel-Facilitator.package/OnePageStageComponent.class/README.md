@@ -1,0 +1,1 @@
+The Seaside (sub)component for the stage perspective of a OnePage brainstorming tool.  I only show the ideas. 

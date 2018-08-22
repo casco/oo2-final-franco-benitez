@@ -1,0 +1,1 @@
+The Seaside (sub)component for the participant perspective of a OnePage brainstorming tool.  I add the posibility to submit ideas

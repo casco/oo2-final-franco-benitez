@@ -7,7 +7,7 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"text",
-		"author"
+		"autor"
 	],
 	"name" : "Idea",
 	"type" : "normal"

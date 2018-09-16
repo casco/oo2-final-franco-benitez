@@ -14,6 +14,7 @@ scriptComportamientoDeBotones: html
 					function cambiarDetener(id) {
 					$(".btn-warning").hide();
 					$(".btn-success").show();
+					$("#panelBody").removeClass("panel-success");
 					$("#panelBody").removeClass("panel-primary");
 					$("#panelBody").addClass("panel-warning");
 					$("#editarReunion").addClass("deshabilitar");

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Doyel-Facilitator-Modelo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"ideas",
+		"id",
+		"tema",
+		"descripcion"
+	],
+	"name" : "Etapa",
+	"type" : "normal"
+}

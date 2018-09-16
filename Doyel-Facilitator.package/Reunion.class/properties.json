@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Doyel-Facilitator-Modelo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tema",
+		"etapasConfiguradas",
+		"etapaActual",
+		"estado"
+	],
+	"name" : "Reunion",
+	"type" : "normal"
+}

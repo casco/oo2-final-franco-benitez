@@ -1,0 +1,3 @@
+accessing
+etapasVotacionYaVotadasLocal: anObject
+	etapasVotacionYaVotadasLocal := anObject

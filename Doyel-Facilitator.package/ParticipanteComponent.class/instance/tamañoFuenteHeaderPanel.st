@@ -1,0 +1,3 @@
+mensajes
+tamañoFuenteHeaderPanel
+	^ 4

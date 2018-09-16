@@ -1,1 +1,0 @@
-A brainstorming page, with a collection of ideas. 

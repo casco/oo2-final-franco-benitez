@@ -1,0 +1,3 @@
+consultas
+obtenerEstadoReunion
+	^self estado.

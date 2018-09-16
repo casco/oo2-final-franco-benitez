@@ -1,0 +1,3 @@
+mensajes
+detenerEtapa
+	self reunion cambiarEnPausa

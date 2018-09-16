@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ObservadorComponent",
+	"category" : "Doyel-Facilitator-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FacilitadorComponent",
+	"type" : "normal"
+}

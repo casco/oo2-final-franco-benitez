@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WAComponent",
+	"category" : "Doyel-Facilitator-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"reunion",
+		"facilitador",
+		"estadoActualLocal",
+		"etapaActualLocal"
+	],
+	"name" : "ObservadorComponent",
+	"type" : "normal"
+}

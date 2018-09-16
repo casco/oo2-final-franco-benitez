@@ -1,0 +1,3 @@
+consultas
+estasEnFinalizado
+	^self enFinalizado.

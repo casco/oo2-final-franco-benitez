@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Etapa",
+	"category" : "Doyel-Facilitator-Modelo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"votosPorParticipante"
+	],
+	"name" : "Votacion",
+	"type" : "normal"
+}

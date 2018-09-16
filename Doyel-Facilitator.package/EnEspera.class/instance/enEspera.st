@@ -1,0 +1,3 @@
+consultas
+enEspera
+	^true.

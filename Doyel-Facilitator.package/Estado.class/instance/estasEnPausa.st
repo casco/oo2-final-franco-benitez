@@ -1,0 +1,3 @@
+consultas
+estasEnPausa
+	^self enPausa.

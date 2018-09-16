@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WAComponent",
+	"category" : "Doyel-Facilitator-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"reunion",
+		"facilitador",
+		"configuracionEtapa"
+	],
+	"name" : "EditarReunionComponent",
+	"type" : "normal"
+}

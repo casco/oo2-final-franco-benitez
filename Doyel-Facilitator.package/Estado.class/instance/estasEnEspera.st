@@ -1,0 +1,3 @@
+consultas
+estasEnEspera
+	^self enEspera.

@@ -1,0 +1,3 @@
+consultas
+sosVotacion
+	^ true

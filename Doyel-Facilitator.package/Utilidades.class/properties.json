@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WAFileLibrary",
+	"category" : "Doyel-Facilitator-Css",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Utilidades",
+	"type" : "normal"
+}

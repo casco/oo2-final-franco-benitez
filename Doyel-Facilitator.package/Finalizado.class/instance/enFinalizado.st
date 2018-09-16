@@ -1,0 +1,3 @@
+consultas
+enFinalizado
+	^true.

@@ -1,0 +1,3 @@
+mensajes
+delayActualizacion
+	^10

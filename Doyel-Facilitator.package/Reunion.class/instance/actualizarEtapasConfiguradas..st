@@ -1,0 +1,3 @@
+actualizacion
+actualizarEtapasConfiguradas: anObject
+	self etapasConfiguradas: anObject

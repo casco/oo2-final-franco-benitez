@@ -1,1 +1,0 @@
-The Seaside (sub)component for the facilitator perspective of a OnePage brainstorming tool. I add the posibility to remove ideas

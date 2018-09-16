@@ -1,0 +1,3 @@
+consultas
+obtenerEtapasConfiguradas
+	^self etapasConfiguradas.

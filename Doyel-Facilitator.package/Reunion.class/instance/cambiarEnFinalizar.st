@@ -1,0 +1,3 @@
+actualizacion
+cambiarEnFinalizar
+	self estado cambiarEnFinalizar: self

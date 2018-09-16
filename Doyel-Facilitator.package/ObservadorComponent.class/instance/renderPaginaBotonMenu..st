@@ -1,0 +1,3 @@
+rendering
+renderPaginaBotonMenu: html
+	^ self

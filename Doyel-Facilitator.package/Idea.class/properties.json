@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "Casco 8/21/2018 10:11",
+	"commentStamp" : "<historical>",
 	"super" : "Object",
-	"category" : "Doyel-Facilitator-Model-core",
+	"category" : "Doyel-Facilitator-Modelo",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"text",
-		"autor"
+		"id",
+		"texto",
+		"votos"
 	],
 	"name" : "Idea",
 	"type" : "normal"

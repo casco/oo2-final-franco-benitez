@@ -1,0 +1,3 @@
+creacion
+crearVotacion
+	^ Votacion new

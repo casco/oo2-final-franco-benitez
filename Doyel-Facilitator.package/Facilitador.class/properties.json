@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Doyel-Facilitator-Modelo",
+	"classinstvars" : [
+		"singleton"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"reuniones"
+	],
+	"name" : "Facilitador",
+	"type" : "normal"
+}

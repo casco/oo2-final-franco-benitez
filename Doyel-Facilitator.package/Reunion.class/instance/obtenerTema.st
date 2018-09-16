@@ -1,0 +1,3 @@
+consultas
+obtenerTema
+	^self tema.

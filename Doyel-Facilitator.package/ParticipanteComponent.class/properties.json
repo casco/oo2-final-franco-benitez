@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ObservadorComponent",
+	"category" : "Doyel-Facilitator-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"etapasVotacionYaVotadasLocal"
+	],
+	"name" : "ParticipanteComponent",
+	"type" : "normal"
+}

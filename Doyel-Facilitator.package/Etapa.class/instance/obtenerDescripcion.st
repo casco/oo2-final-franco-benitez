@@ -1,0 +1,3 @@
+consultas
+obtenerDescripcion
+	^ self descripcion

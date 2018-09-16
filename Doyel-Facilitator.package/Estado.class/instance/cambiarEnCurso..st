@@ -1,0 +1,3 @@
+actualizacion
+cambiarEnCurso: anObject
+	^ self

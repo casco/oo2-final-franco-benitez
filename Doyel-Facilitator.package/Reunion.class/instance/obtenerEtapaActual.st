@@ -1,0 +1,3 @@
+consultas
+obtenerEtapaActual
+	^self etapaActual.

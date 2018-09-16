@@ -1,0 +1,3 @@
+mensajes
+rehabilitarReunion
+	self reunion cambiarEnPausa

@@ -1,0 +1,3 @@
+mensajes
+tamañoFuenteDescripcionPanel
+	^ 5

@@ -1,0 +1,3 @@
+consultas
+obtenerVotosPorParticipante
+	^ self obtenerEtapaActual obtenerVotosPorParticipante

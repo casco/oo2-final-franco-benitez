@@ -1,6 +1,5 @@
 SystemOrganization addCategory: #'Doyel-Facilitator'!
-SystemOrganization addCategory: 'Doyel-Facilitator-Model-core'!
-SystemOrganization addCategory: 'Doyel-Facilitator-Model-tools'!
-SystemOrganization addCategory: 'Doyel-Facilitator-Repository'!
-SystemOrganization addCategory: 'Doyel-Facilitator-Seaside-tools'!
-SystemOrganization addCategory: 'Doyel-Facilitator-Tests'!
+SystemOrganization addCategory: 'Doyel-Facilitator-Component'!
+SystemOrganization addCategory: 'Doyel-Facilitator-Css'!
+SystemOrganization addCategory: 'Doyel-Facilitator-Modelo'!
+SystemOrganization addCategory: 'Doyel-Facilitator-Test-Unidad'!

@@ -1,0 +1,3 @@
+consultas
+obtenerReuniones
+	^ self reuniones.

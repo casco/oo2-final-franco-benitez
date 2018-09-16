@@ -1,0 +1,3 @@
+consultas
+obtenerTexto
+	^ self texto

@@ -6,4 +6,4 @@ renderBotones: html
 		callback: [ self agregarReunion ];
 		with: [ html text: 'Agregar Reunión'.
 			html space.
-			html tbsGlyphIcon perform: #iconPlus ]
+			html tbsGlyphIcon iconPlus ]

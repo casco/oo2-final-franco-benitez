@@ -1,4 +1,4 @@
-mensajes
+utilidades
 coleccionDeIdeas
 	self reunion obtenerEnFinalizado
 		ifTrue: [ ^ self reunion obtenerIdeasOrdenadasPorVotos ].

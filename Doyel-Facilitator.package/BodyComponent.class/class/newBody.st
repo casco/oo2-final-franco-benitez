@@ -1,0 +1,3 @@
+initialization
+newBody
+	^self subclassResponsibility.

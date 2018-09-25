@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WAComponent",
+	"category" : "Doyel-Facilitator-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"texto",
+		"tamañoFuente"
+	],
+	"name" : "HeaderComponent",
+	"type" : "normal"
+}

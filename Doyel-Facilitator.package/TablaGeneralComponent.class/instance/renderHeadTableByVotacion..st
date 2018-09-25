@@ -1,0 +1,3 @@
+rendering-table
+renderHeadTableByVotacion: html
+	self subclassResponsibility

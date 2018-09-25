@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BodyComponent",
+	"category" : "Doyel-Facilitator-Herramientas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"reunion"
+	],
+	"name" : "BodyObservadorComponent",
+	"type" : "normal"
+}

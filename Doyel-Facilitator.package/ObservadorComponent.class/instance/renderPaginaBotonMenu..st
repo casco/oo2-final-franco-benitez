@@ -1,3 +1,0 @@
-rendering
-renderPaginaBotonMenu: html
-	^ self

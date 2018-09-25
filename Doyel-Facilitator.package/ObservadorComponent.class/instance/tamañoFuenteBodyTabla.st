@@ -1,3 +1,0 @@
-mensajes
-tamañoFuenteBodyTabla
-	^ 1

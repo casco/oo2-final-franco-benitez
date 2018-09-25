@@ -7,6 +7,4 @@ scriptEstaActualizado: html
 	html
 		script:
 			((html jQuery: '#tabla') load
-				html: [ :r | 
-					self renderHeadTable: r.
-					self renderBodyTable: r ])
+				html: [ :r | r render: (TablaObservadorComponent newTabla: self reunion). ])

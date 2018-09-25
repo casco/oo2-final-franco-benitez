@@ -1,3 +1,0 @@
-mensajes
-tamañoFuenteHeaderPanel
-	^ 1

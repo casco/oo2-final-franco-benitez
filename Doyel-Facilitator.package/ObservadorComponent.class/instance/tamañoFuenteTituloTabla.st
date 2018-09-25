@@ -1,3 +1,0 @@
-mensajes
-tamañoFuenteTituloTabla
-	^ 1

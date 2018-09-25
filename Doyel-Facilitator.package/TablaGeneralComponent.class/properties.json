@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TablaComponent",
+	"category" : "Doyel-Facilitator-Herramientas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"reunion"
+	],
+	"name" : "TablaGeneralComponent",
+	"type" : "normal"
+}

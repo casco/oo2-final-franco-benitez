@@ -1,4 +1,6 @@
-rendering
+rendering-table
 renderTable: html
-	self renderHeadTable: html.
-	self renderBodyTable: html
+	html
+		render:
+			((TablaReunionesComponent newTabla: self facilitador obtenerReuniones)
+				onAnswer: [ :respuesta | self evaluarRespuesta: respuesta ])

@@ -13,13 +13,13 @@ renderContentOn: html
 											self renderForm: html.
 											html heading
 												level: 4;
-												with: [ html tbsGlyphIcon perform: #iconPlus.
+												with: [ html tbsGlyphIcon iconPlus.
 													html space.
 													html text: 'Agregar Etapas'.
 													html horizontalRule ] ].
-									self renderAjaxOn: html ] ].
+									self renderBotonesEtapas: html ] ].
 					self renderHeadListado: html.
 					html div
 						id: #listado;
 						class: 'col-sm-7 col-md-7  col-lg-7 listaScrollVertical ';
-						with: [ self renderListadoTarjetas: html ] ] ]
+						with: [ html render: (ListadoTarjetasComponent newTarjeta: self reunion)] ] ]

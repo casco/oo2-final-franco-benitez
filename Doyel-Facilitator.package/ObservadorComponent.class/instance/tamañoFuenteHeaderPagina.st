@@ -1,3 +1,3 @@
-mensajes
+tamaño-fuente
 tamañoFuenteHeaderPagina
-	^ 2
+	^ 1

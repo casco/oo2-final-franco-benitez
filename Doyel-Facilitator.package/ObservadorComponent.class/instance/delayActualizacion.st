@@ -1,3 +1,3 @@
-mensajes
+utilidades
 delayActualizacion
-	^10
+	^ 5

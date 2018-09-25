@@ -1,0 +1,3 @@
+rendering
+renderHeadTableByBrainstorming: html
+	self renderAddTableLabelNombreEtapa: html.

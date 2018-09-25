@@ -1,3 +1,0 @@
-mensajes
-tamañoFuenteDescripcion
-	^ 2

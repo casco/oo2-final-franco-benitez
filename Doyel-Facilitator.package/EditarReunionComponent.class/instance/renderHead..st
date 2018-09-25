@@ -2,7 +2,7 @@ rendering
 renderHead: html
 	html heading
 		level: 3;
-		with: [ html tbsGlyphIcon perform: #iconEdit.
+		with: [ html tbsGlyphIcon iconEdit.
 			html space.
 			html text: 'Editar Reunión'.
 			html

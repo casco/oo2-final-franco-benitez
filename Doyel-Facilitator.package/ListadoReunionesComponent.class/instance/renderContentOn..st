@@ -8,7 +8,7 @@ renderContentOn: html
 						class: 'col-sm-12 col-md-12 col-lg-12 ';
 						with: [ html heading
 								level: 2;
-								with: [ html tbsGlyphIcon perform: #iconTasks.
+								with: [ html tbsGlyphIcon iconTasks.
 									html space.
 									html text: 'Reuniones Disponibles' ].
 							self renderBotones: html.

@@ -1,0 +1,3 @@
+utilidades
+detenerEtapa
+	self reunion cambiarEnPausa

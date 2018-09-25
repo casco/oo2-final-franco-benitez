@@ -1,0 +1,3 @@
+utilidades
+tamañoTarjeta
+	^ 12

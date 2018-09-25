@@ -1,0 +1,3 @@
+utilidades
+finalizarReunion
+	self reunion cambiarEnFinalizar.

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WAComponent",
+	"category" : "Doyel-Facilitator-Herramientas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"coleccionDatos"
+	],
+	"name" : "TablaComponent",
+	"type" : "normal"
+}

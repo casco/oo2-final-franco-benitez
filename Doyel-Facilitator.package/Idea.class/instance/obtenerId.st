@@ -1,3 +1,3 @@
 consultas
 obtenerId
-	^self id.
+	^ self id

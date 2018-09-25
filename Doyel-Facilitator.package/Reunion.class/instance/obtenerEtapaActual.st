@@ -1,3 +1,3 @@
 consultas
 obtenerEtapaActual
-	^self etapaActual.
+	^ self etapaActual

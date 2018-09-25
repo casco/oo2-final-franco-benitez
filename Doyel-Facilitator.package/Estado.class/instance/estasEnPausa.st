@@ -1,3 +1,3 @@
 consultas
 estasEnPausa
-	^self enPausa.
+	^ self enPausa

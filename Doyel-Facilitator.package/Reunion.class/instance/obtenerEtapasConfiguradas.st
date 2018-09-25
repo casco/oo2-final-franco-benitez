@@ -1,3 +1,3 @@
 consultas
 obtenerEtapasConfiguradas
-	^self etapasConfiguradas.
+	^ self etapasConfiguradas

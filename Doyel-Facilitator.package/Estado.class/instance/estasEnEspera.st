@@ -1,3 +1,3 @@
 consultas
 estasEnEspera
-	^self enEspera.
+	^ self enEspera

@@ -1,3 +1,3 @@
 consultas
 enFinalizado
-	^true.
+	^ true

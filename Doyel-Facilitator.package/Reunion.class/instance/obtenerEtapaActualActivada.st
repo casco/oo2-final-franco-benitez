@@ -1,3 +1,3 @@
 consultas
 obtenerEtapaActualActivada
-	^self estado obtenerEtapaActualActivada: self.
+	^ self estado obtenerEtapaActualActivada: self

@@ -1,3 +1,3 @@
 consultas
 estasEnCurso
-	^self enCurso.
+	^ self enCurso

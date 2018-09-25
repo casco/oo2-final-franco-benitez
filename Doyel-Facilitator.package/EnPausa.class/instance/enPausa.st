@@ -1,3 +1,3 @@
 consultas
 enPausa
-	^true.
+	^ true

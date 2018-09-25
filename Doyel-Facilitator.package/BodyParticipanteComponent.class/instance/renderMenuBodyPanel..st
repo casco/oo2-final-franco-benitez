@@ -1,4 +1,4 @@
-rendering-form
+rendering-panel
 renderMenuBodyPanel: html
 	self reunion obtenerEnFinalizado
 		ifTrue: [ ]

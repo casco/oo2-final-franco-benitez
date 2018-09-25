@@ -1,3 +1,3 @@
 consultas
 obtenerNombre
-	^self nombre.
+	^ self nombre

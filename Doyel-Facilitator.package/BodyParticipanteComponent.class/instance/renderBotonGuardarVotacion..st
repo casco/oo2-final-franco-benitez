@@ -1,4 +1,4 @@
-rendering-table
+rendering-tabla
 renderBotonGuardarVotacion: html
 	self reunion obtenerSosVotacionEtapaActual
 		ifTrue: [ html tbsSubmitButton

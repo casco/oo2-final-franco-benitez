@@ -1,3 +1,3 @@
 consultas
 obtenerEnCurso
-	^self estado estasEnCurso.
+	^ self estado estasEnCurso

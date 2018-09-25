@@ -2,5 +2,5 @@ rendering
 renderBotones: html
 	html anchor
 		class: 'btn btn-primary center';
-		callback: [ self show: self listadoReuniones ];
+		callback: [ self call: self listadoReuniones ];
 		with: 'Buscar Reunión'.

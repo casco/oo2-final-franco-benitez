@@ -1,3 +1,3 @@
 consultas
 obtenerTemaEtapaActual
-	^self etapaActual obtenerTema.
+	^ self etapaActual obtenerTema

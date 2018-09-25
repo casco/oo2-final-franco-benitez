@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"etapasVotacionYaVotadasLocal"
-	],
+	"instvars" : [ ],
 	"name" : "ParticipanteComponent",
 	"type" : "normal"
 }

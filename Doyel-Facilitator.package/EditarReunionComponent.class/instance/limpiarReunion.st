@@ -1,5 +1,3 @@
 mensajes
 limpiarReunion
-self reunion: Reunion new.
- 
- 
+	self reunion: Reunion new

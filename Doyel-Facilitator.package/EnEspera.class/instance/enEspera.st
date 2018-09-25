@@ -1,3 +1,3 @@
 consultas
 enEspera
-	^true.
+	^ true

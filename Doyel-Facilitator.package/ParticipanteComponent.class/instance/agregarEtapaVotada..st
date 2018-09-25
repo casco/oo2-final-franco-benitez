@@ -1,3 +1,3 @@
 utilidades
 agregarEtapaVotada: anObject
-	self etapasVotacionYaVotadasLocal add: anObject.
+	self session agregarEtapa: anObject.

@@ -1,3 +1,3 @@
 consultas
 obtenerTema
-	^self tema.
+	^ self tema

@@ -1,4 +1,4 @@
 utilidades
 yaVotoEnEtapa: anObject
-	^self etapasVotacionYaVotadasLocal includes: anObject.
+	^ self session yaVotoEnEtapa: anObject .
 	

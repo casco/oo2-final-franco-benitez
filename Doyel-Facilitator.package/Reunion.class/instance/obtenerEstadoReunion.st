@@ -1,3 +1,3 @@
 consultas
 obtenerEstadoReunion
-	^self estado.
+	^ self estado

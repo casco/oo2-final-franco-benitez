@@ -5,10 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"texto",
-		"tamañoFuente"
-	],
+	"instvars" : [ ],
 	"name" : "FooterComponent",
 	"type" : "normal"
 }

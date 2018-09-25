@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WASession",
+	"category" : "Doyel-Facilitator-Session",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"etapasYaVotadas"
+	],
+	"name" : "SessionUsuario",
+	"type" : "normal"
+}

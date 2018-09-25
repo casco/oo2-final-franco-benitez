@@ -1,3 +1,3 @@
 consultas
 obtenerEnFinalizado
-	^self estado estasEnFinalizado.
+	^ self estado estasEnFinalizado

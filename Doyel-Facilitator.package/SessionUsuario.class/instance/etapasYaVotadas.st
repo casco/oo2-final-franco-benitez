@@ -1,0 +1,3 @@
+accessing
+etapasYaVotadas
+	^ etapasYaVotadas

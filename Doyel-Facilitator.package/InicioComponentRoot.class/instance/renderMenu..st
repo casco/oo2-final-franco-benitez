@@ -7,7 +7,7 @@ renderMenu: html
 			html
 				space;
 				space.
-			html tbsGlyphIcon perform: #iconStatistics.
+			html tbsGlyphIcon iconStatistics.
 			html break; break.
 			html div
 				class: 'boton';

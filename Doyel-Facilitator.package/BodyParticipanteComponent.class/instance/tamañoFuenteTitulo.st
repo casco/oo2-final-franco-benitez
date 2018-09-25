@@ -1,3 +1,3 @@
 tamaño-fuente
 tamañoFuenteTitulo
-^2
+	^ 2

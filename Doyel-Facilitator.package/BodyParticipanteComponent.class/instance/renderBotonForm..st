@@ -1,6 +1,7 @@
-rendering-form
+rendering
 renderBotonForm: html
 	| texto |
+	texto:= ''.
 	html tbsButton
 		id: 'enviarIdea';
 		beLabeled;

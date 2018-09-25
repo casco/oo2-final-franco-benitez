@@ -1,3 +1,3 @@
 consultas
 obtenerEnEspera
-	^self estado estasEnEspera.
+	^ self estado estasEnEspera

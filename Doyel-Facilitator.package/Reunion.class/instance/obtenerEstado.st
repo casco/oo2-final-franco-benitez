@@ -1,3 +1,3 @@
 consultas
 obtenerEstado
-	^self estado.
+	^ self estado

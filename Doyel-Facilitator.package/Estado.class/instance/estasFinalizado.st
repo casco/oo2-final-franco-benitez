@@ -1,3 +1,3 @@
 consultas
 estasFinalizado
-	^self enFinalizado.
+	^ self enFinalizado

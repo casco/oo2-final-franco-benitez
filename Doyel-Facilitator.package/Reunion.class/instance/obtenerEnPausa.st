@@ -1,3 +1,3 @@
 consultas
 obtenerEnPausa
-	^self estado estasEnPausa.
+	^ self estado estasEnPausa

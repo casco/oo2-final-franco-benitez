@@ -1,5 +1,5 @@
 Calls
 entrarComoParticipante: anObject
-|participante|
-participante:= ParticipanteComponent newParicipante: anObject.
-^(self call: participante)
+	| participante |
+	participante := ParticipanteComponent newParicipante: anObject.
+	^ self call: participante
